@@ -23,7 +23,7 @@ function App() {
         <Header />
         <Container>
           {content.map((item, index) => (
-            <Card title={item.title} />
+            <Card key={index} item={item} />
           ))}
         </Container>
       </>

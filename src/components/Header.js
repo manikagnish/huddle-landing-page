@@ -12,7 +12,7 @@ export default function Header() {
           <Button>Try It Free</Button>
         </Nav>
 
-        <Flex>
+        <Flex align="center">
           <div>
             <h1>Build The Community Your Fans Will Love</h1>
             <p>

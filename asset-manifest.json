@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/huddle-landing-page/static/js/main.5e5d44fa.chunk.js",
+    "main.js.map": "/huddle-landing-page/static/js/main.5e5d44fa.chunk.js.map",
+    "runtime-main.js": "/huddle-landing-page/static/js/runtime-main.7d76885c.js",
+    "runtime-main.js.map": "/huddle-landing-page/static/js/runtime-main.7d76885c.js.map",
+    "static/js/2.0c37c485.chunk.js": "/huddle-landing-page/static/js/2.0c37c485.chunk.js",
+    "static/js/2.0c37c485.chunk.js.map": "/huddle-landing-page/static/js/2.0c37c485.chunk.js.map",
+    "static/js/3.af6be392.chunk.js": "/huddle-landing-page/static/js/3.af6be392.chunk.js",
+    "static/js/3.af6be392.chunk.js.map": "/huddle-landing-page/static/js/3.af6be392.chunk.js.map",
+    "index.html": "/huddle-landing-page/index.html",
+    "static/js/2.0c37c485.chunk.js.LICENSE.txt": "/huddle-landing-page/static/js/2.0c37c485.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d76885c.js",
+    "static/js/2.0c37c485.chunk.js",
+    "static/js/main.5e5d44fa.chunk.js"
+  ]
+}

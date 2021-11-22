@@ -18,6 +18,7 @@ export const StyledSocialIcons = styled.div`
     height: 40px;
     width: 40px;
     text-decoration: none;
+    transition: all 0.3s ease-in-out;
 
     &:hover {
       border: 1px solid #ff0099;

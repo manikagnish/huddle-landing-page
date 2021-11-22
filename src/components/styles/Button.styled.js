@@ -13,7 +13,7 @@ export const Button = styled.button`
   transition: all 0.3s ease-in-out;
 
   &:hover {
-    opacity: 0.9;
+    opacity: 0.6;
     transform: scale(0.98);
   }
 `;

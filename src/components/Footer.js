@@ -2,9 +2,10 @@ import SocialIcons from "./SocialIcons";
 import { Container } from "./styles/Container.styled";
 import { StyledFooter, FooterContainer } from "./styles/Footer.Styled";
 
-export default function Footer() {
+export default function Footer({ children }) {
   return (
     <StyledFooter>
+      {children}
       <Container>
         <img src="./images/logo_white.svg" alt="" />
 

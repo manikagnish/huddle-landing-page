@@ -1,10 +1,12 @@
 import styled from "styled-components";
 
 export const StyledFooter = styled.footer`
+  margin-top: 15em;
   font-size: 16px;
   background-color: ${({ theme }) => theme.colors.footer};
   color: #fff;
-  padding: 100px 0 60px;
+  padding: 150px 0 60px 0;
+  position: relative;
   img {
     margin-bottom: 18px;
   }
